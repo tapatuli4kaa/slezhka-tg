@@ -10,7 +10,7 @@
 > - #### Софт ищет по айди, поэтому вам нужно иметь чат с объектом слежки (можно просто написать точку и удалить её, чтобы софт смог найти собеседника). 
 
 ![при запуске](images/при_запуске.png)
-> другие примеры работы софта смотрите в папке [`images`](https://github.com/tapatuli4kaa/test/tree/main/images)
+> другие примеры работы софта смотрите в папке [`images`](https://github.com/tapatuli4kaa/slezhka-tg/tree/main/images)
 
 ## Требования:
 - [Python](https://www.python.org/downloads/) 3.9+
